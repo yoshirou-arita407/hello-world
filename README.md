@@ -2,4 +2,4 @@
 first repository
 
 練習用ファイル
-うらーーーー
+うら！
